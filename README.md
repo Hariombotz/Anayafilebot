@@ -5,8 +5,17 @@
   ANAYA-FILTER-BOT
 </h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝑊𝑒𝑙𝑐𝑜𝑚𝑒+𝑇𝑜+HB+Botz;𝐴+𝑠𝑖𝑚𝑝𝑙𝑒+𝑎𝑛𝑑+𝑝𝑜𝑤𝑒𝑟𝑓𝑢𝑙+𝐵𝑜𝑡!;𝐼𝑛𝑑𝑒𝑥𝑒𝑠+𝐹𝑖𝑙𝑒𝑠+𝑎𝑏𝑜𝑣𝑒+2𝐺𝐵;𝐴+𝐵𝑜𝑡+𝑤𝑖𝑡ℎ+𝑑𝑜𝑢𝑏𝑙𝑒+𝑏𝑢𝑡𝑡𝑜𝑛!;𝑆𝑡𝑎𝑟𝑡+𝑚𝑒𝑠𝑠𝑎𝑔𝑒+𝑤𝑖𝑡ℎ+𝑝𝑖𝑐!;𝐴𝑛𝑑+𝑚𝑜𝑟𝑒+𝑓𝑒𝑎𝑡𝑢𝑟𝑒𝑠!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝑊𝑒𝑙𝑐𝑜𝑚𝑒+𝑇𝑜+HB+Botz;𝐴+𝑠𝑖𝑚𝑝𝑙𝑒+𝑎𝑛𝑑+𝑝𝑜𝑤𝑒𝑟𝑓𝑢𝑙+𝐵𝑜𝑡;𝐼𝑛𝑑𝑒𝑥𝑒𝑠+𝐹𝑖𝑙𝑒𝑠+𝑎𝑏𝑜𝑣𝑒+2𝐺𝐵;𝑆𝑜𝑛𝑔+𝐷𝑜𝑤𝑛𝑙𝑜𝑎𝑑+𝐹𝑒𝑎𝑡𝑢𝑟𝑒𝑠;𝑅𝑒𝑝𝑜+𝑠𝑒𝑎𝑟𝑐ℎ+𝑓𝑒𝑎𝑡𝑢𝑟𝑒;𝐿𝑦𝑟𝑖𝑐𝑠+𝐷𝑜𝑤𝑛𝑙𝑜𝑎𝑑+𝑓𝑒𝑎𝑡𝑢𝑟𝑒;𝑃𝑎𝑠𝑠𝑤𝑜𝑟𝑑+𝐺𝑒𝑛𝑒𝑟𝑎𝑡𝑒+𝑓𝑒𝑎𝑡𝑢𝑟𝑒;𝐴+𝐵𝑜𝑡+𝑤𝑖𝑡ℎ+𝑑𝑜𝑢𝑏𝑙𝑒+𝑏𝑢𝑡𝑡𝑜𝑛;𝑆𝑡𝑎𝑟𝑡+𝑚𝑒𝑠𝑠𝑎𝑔𝑒+𝑤𝑖𝑡ℎ+𝑝𝑖𝑐;𝐴𝑛𝑑+𝑚𝑜𝑟𝑒+𝑓𝑒𝑎𝑡𝑢𝑟𝑒𝑠)
 </p>
+
+<a href="https://github.com/Hariombotz/Anayafilebot/stargazers"><img src="https://img.shields.io/github/stars/Hariombotz/Anayafilebot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/Hariombotz/Anayafilebot/tree/main/network/members"> <img src="https://img.shields.io/github/forks/Hariombotz/Anayafilebot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/Hariombotz/Anayafilebot"> <img src="https://img.shields.io/github/repo-size/Hariombotz/Anayafilebot?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>   
+<a href="https://github.com/Hariombotz/Anayafilebot/commits/kdbotz"> <img src="https://img.shields.io/github/last-commit/Hariombotz/Anayafilebot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/t/Hariombotz/Anayafilebot"> <img src="https://img.shields.io/github/contributors/Hariombotz/Anayafilebot?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>
+<a href="https://github.com/Hariombotz/Anayafilebot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License- GPL 2.0 license -blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python" /> </a>
+<a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=white&label=pyrogram&logo=python&logoColor=blue&style=for-the-badge" /></a>
 
 ## 𝐹𝑒𝑎𝑡𝑢𝑟𝑒𝑠
 - [x] 𝐼𝑀𝐷𝐵 𝑇𝑒𝑚𝑝𝑙𝑎𝑡𝑒 𝑆𝑒𝑡
@@ -14,8 +23,11 @@
 - [x] 𝑃𝑟𝑒𝐷𝑉𝐷 𝑎𝑛𝑑 𝐶𝑎𝑚𝑅𝑖𝑝 𝐷𝑒𝑙𝑒𝑡𝑒 𝑀𝑜𝑑𝑒
 - [x] 𝑀𝑢𝑙𝑡𝑖𝑝𝑙𝑒 𝐹𝑖𝑙𝑒 𝐷𝑒𝑙𝑒𝑡𝑖𝑜𝑛
 - [x] 𝑆𝑒𝑡𝑡𝑖𝑛𝑔𝑠 𝑀𝑒𝑛𝑢
-- [x] 𝐹𝑜𝑟𝑐𝑒 𝑆𝑢𝑏𝑠𝑐𝑟𝑖𝑝𝑡𝑖𝑜𝑛
+- [x] 𝑅𝑒𝑝𝑜 𝑠𝑒𝑎𝑟𝑐ℎ 𝑓𝑒𝑎𝑡𝑢𝑟𝑒
 - [x] 𝑊𝑒𝑙𝑐𝑜𝑚𝑒 𝑀𝑒𝑠𝑠𝑎𝑔𝑒
+- [X] 𝑆𝑜𝑛𝑔 𝐷𝑜𝑤𝑛𝑙𝑜𝑎𝑑 𝐹𝑒𝑎𝑡𝑢𝑟𝑒𝑠
+- [X] 𝐿𝑦𝑟𝑖𝑐𝑠 𝐷𝑜𝑤𝑛𝑙𝑜𝑎𝑑 𝑓𝑒𝑎𝑡𝑢𝑟𝑒
+- [X] 𝑃𝑎𝑠𝑠𝑤𝑜𝑟𝑑 𝐺𝑒𝑛𝑒𝑟𝑎𝑡𝑒 𝑓𝑒𝑎𝑡𝑢𝑟𝑒
 - [x] 𝐴𝑢𝑡𝑜𝑚𝑎𝑡𝑖𝑐 𝐹𝑖𝑙𝑒 𝐹𝑖𝑙𝑡𝑒𝑟𝑖𝑛𝑔
 - [x] 𝐷𝑜𝑢𝑏𝑙𝑒 𝐹𝑖𝑙𝑡𝑒𝑟 𝐵𝑢𝑡𝑡𝑜𝑛
 - [x] 𝑆𝑖𝑛𝑔𝑙𝑒 𝐹𝑖𝑙𝑡𝑒𝑟 𝐵𝑢𝑡𝑡𝑜𝑛
