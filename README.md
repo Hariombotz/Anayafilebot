@@ -170,23 +170,22 @@ Use these settings when adding a monitor:</b>
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/TeamHMT/Auto-search-tamil-bot
+git clone https://github.com/Hariombotz/Anayafilebot
 # Install Packages
 pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
 python3 bot.py
 </pre>
 </p>
-</details>
-
+</details
 <hr>
 
 ## Credits 
 * [![EvaMaria-Devs](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.dog/EvaMariaDevs)
 * [![Joel-TGX](https://img.shields.io/static/v1?label=Jᴏᴇʟ+ᠰ+TɢX&message=Github&color=critical)](https://github.com/Joelkb)
 * [![Contact](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/creatorbeatz)
-* [![TTBots](https://img.shields.io/static/v1?label=Tᴛ+Bᴏᴛs&message=Github&color=critical)](https://github.com/TeamHMT)
-* [![Contact](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/TeamHMT_Bots)
+* [![Hbbotz](https://img.shields.io/static/v1?label=Hʙ+Bᴏᴛᴢ&message=Github&color=critical)](https://github.com/Hariombotz)
+* [![Contact](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/hbbotz)
 
 ## Thanks to 
  - Thanks To Dan For His Awesome [Library](https://github.com/pyrogram/pyrogram)
